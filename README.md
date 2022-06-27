@@ -1,1 +1,2 @@
-# aipi561-markdown
+# AIPI 561 | Markdown Practice
+## Miranda Morris
